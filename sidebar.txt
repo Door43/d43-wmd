@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wmd:home|Door43 (wmd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wmd|d43-wmd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wmd/archive/master.zip|d43-wmd.zip]]
+
+**Recent Changes**
+{{changes>ns = wmd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wmd|Ethnologue data]]
+
